@@ -9,7 +9,7 @@ import org.mockito.Mockito;
 import static org.mockito.Mockito.*;
 
 /**
- * @author Barha Meherun Pritha
+ * @author 
  */
 
 public class BookTest {
